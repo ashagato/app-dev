@@ -11,9 +11,3 @@ My first repository
 **Writers: Jerry Siegel, Joe Shuster, and Zack Synder**
 
 **CAST:**
- 1.Batman (Ben Affleck) 
- 2.Wonder Woman (Gal Gadot)
- 3.Cyborg (Ray Fisher)
- 4.Aquaman (Jason Momoa)
- 5.the Flash (Ezra Miller)
- 6.Superman (Henry Cavill)
