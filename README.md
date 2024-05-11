@@ -2,7 +2,6 @@
 My first repository
 # ZACK SYNDER'S JUSTICE LEAGUE
 
-
 ![image](https://github.com/ashagato/app-dev/assets/169523133/c0644ed5-8e25-4816-9e44-c37a2b81c5b8)
 
 *Determined to ensure that Superman's ultimate sacrifice wasn't in vain, Bruce Wayne recruits a team of metahumans to protect the world from an approaching threat of catastrophic proportions.*
