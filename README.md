@@ -9,3 +9,7 @@ My first repository
 **Director: Zack Synder**
 
 **Writers: Jerry Siegel, Joe Shuster, and Zack Synder**
+
+1. First item
+2. Second item
+3. Third item
