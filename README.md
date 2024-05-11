@@ -5,7 +5,7 @@ My first repository
 
 [ZACK SYNDER'S JUSTICE LEAGUE](https://www.imdb.com/title/tt12361974/)
 
-![JUSTICE LEAGUE](Jleague.jpg)
 
 **Director: Zack Synder**
+
 **Writers: Jerry Siegel, Joe Shuster, and Zack Synder**
